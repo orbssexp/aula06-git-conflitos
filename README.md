@@ -1,1 +1,1 @@
-# Atividade 06 - GitHub
+# Atividade 06 - GitHub (versão B)
